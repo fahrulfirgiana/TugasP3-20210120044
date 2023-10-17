@@ -1,0 +1,33 @@
+{
+  "page": 1,
+  "per_page": 3,
+  "total": 12,
+  "total_pages": 4,
+  "data": [
+    {
+      "id": 1,
+      "produk": "Produk Beng - Beng",
+      "first_name": "Tasty Snack Indonesia",
+      "last_name": "Murah Meriah",
+      "avatar": "http://10.20.30.184/api/img/produk1.jpg"
+    },
+    {
+      "id": 2,
+      "produk": "Richess",
+      "first_name": "Ahh",
+      "last_name": "Joss",
+      "avatar": "http://10.20.30.184/api/img/produk2.jpg"
+    },
+    {
+      "id": 3,
+      "produk": "Indomie Kuah",
+      "first_name": "Rasa Mantap",
+      "last_name": "Joss",
+      "avatar": "http://10.20.30.184/api/img/produk3.jpg"
+    }
+  ],
+  "support": {
+    "url": "https://reqres.in/#support-heading",
+    "text": "To keep ReqRes free, contributions towards server costs are appreciated!"
+  }
+}
